@@ -1,0 +1,31 @@
+{
+  "name": "vue-top-event",
+  "version": "1.0.0",
+  "description": "Vue.js mixin for $emit event from sub components on this components (top component) and emit hook from sub components. And add hook's ability for components.",
+  "main": "top.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vue": "^2.6.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codegor/vue-top-event.git"
+  },
+  "keywords": [
+    "vue",
+    "event",
+    "top event",
+    "hooks",
+    "hook",
+    "subcomponents",
+    "events"
+  ],
+  "author": "codeegor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codegor/vue-top-event/issues"
+  },
+  "homepage": "https://github.com/codegor/vue-top-event#readme"
+}
